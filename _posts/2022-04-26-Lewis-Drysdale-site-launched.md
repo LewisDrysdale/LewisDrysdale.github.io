@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Lewis Drysdale, Marine Scientist, Launches Site"
+title: "Sea Trials of Omura"
 date: 2022-04-26
 ---
 
-Powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Sea Trials of Omura
